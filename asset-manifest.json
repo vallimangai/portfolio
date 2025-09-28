@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ed02d7f.css",
+    "main.js": "/static/js/main.175e6697.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/hom1.png": "/static/media/hom1.bf8b243d93bafa82a008.png",
+    "static/media/about.png": "/static/media/about.581a28248909ad5596c8.png",
+    "static/media/avatar1.png": "/static/media/avatar1.8fe7833fca58843153ec.png",
+    "static/media/palm.png": "/static/media/palm.6a73a49fad6fb9d972e3.png",
+    "static/media/Valliammai_V.pdf": "/static/media/Valliammai_V.4456565f95ebb467769e.pdf",
+    "static/media/logo.png": "/static/media/logo.a794c2b6a4dfe09e4964.png",
+    "static/media/video.png": "/static/media/video.96c720654fd63d4305ad.png",
+    "static/media/memory.png": "/static/media/memory.f92b0710596b3b37040e.png",
+    "static/media/music.png": "/static/media/music.d43ff672ee9e7d2e7fce.png",
+    "static/media/arvr.png": "/static/media/arvr.e35a462402b894677f3b.png",
+    "static/media/quick.png": "/static/media/quick.801f6783850f266c2246.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.7ed02d7f.css.map": "/static/css/main.7ed02d7f.css.map",
+    "main.175e6697.js.map": "/static/js/main.175e6697.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ed02d7f.css",
+    "static/js/main.175e6697.js"
+  ]
+}
